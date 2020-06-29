@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  header {
+    height: 80px;
+    background-color: aquamarine;
+  }
+  nav {
+    height: 80px;
+    background-color: tomato;
+  }
+  section {
+    background-color: yellow;
+    padding: 20px;
+    width: 70%;
+    display: inline-block;
+    vertical-align: top;
+    min-height: 150px;
+  }
+  article {
+    background-color: orange;
+    margin: 5px;
+  }
+  aside {
+    background-color: beige;
+    width: 29%;
+    display: inline-block;
+    min-height: 150px;
+    vertical-align: top;
+  }
+  footer {
+    height: 80px;
+    background-color: aqua;
+  }
